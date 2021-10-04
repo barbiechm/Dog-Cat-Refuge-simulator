@@ -1,0 +1,14 @@
+C:\Users\Barba\source\repos\helloworld\helloworld\bin\Debug\netcoreapp3.1\helloworld.exe
+C:\Users\Barba\source\repos\helloworld\helloworld\bin\Debug\netcoreapp3.1\helloworld.deps.json
+C:\Users\Barba\source\repos\helloworld\helloworld\bin\Debug\netcoreapp3.1\helloworld.runtimeconfig.json
+C:\Users\Barba\source\repos\helloworld\helloworld\bin\Debug\netcoreapp3.1\helloworld.runtimeconfig.dev.json
+C:\Users\Barba\source\repos\helloworld\helloworld\bin\Debug\netcoreapp3.1\helloworld.dll
+C:\Users\Barba\source\repos\helloworld\helloworld\bin\Debug\netcoreapp3.1\helloworld.pdb
+C:\Users\Barba\source\repos\helloworld\helloworld\obj\Debug\netcoreapp3.1\helloworld.csproj.AssemblyReference.cache
+C:\Users\Barba\source\repos\helloworld\helloworld\obj\Debug\netcoreapp3.1\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barba\source\repos\helloworld\helloworld\obj\Debug\netcoreapp3.1\helloworld.AssemblyInfoInputs.cache
+C:\Users\Barba\source\repos\helloworld\helloworld\obj\Debug\netcoreapp3.1\helloworld.AssemblyInfo.cs
+C:\Users\Barba\source\repos\helloworld\helloworld\obj\Debug\netcoreapp3.1\helloworld.csproj.CoreCompileInputs.cache
+C:\Users\Barba\source\repos\helloworld\helloworld\obj\Debug\netcoreapp3.1\helloworld.dll
+C:\Users\Barba\source\repos\helloworld\helloworld\obj\Debug\netcoreapp3.1\helloworld.pdb
+C:\Users\Barba\source\repos\helloworld\helloworld\obj\Debug\netcoreapp3.1\helloworld.genruntimeconfig.cache
